@@ -46,8 +46,8 @@ Other Utilities: dotenv, uuid, cors
 
 ⚙️ Installation
 1. Clone Repo & Install Packages
-git clone https://github.com/your-username/file-parser-api.git
-cd file-parser-api
+git clone https://github.com/harshitduttshukla/fileuplodeass.git
+cd fileuplodeass
 npm install
 
 2. Setup Environment Variables (.env)
@@ -55,7 +55,6 @@ DB_USERNAME=
 DB_PASSWORD=
 DB_NAME=filedb
 PORT=4000
-
 JWT_SECRET=
 
 3. Database Setup
